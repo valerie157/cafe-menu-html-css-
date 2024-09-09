@@ -1,0 +1,29 @@
+h1,h2,p{
+    text-align: center;
+}
+body{
+    background-image: url(download.jfif);
+}
+
+.menu{
+    width: 80%;
+    background-color: burlywood;
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.flavor, .dessert{
+    text-align: center;
+    width:70%;
+}
+.price{
+    text-align: right;
+    width:20%
+}
+.item p{
+    display: inline-block;
+}
+/* Add more styles as needed */
