@@ -10,10 +10,8 @@ body{
     background-color: burlywood;
     margin-right: auto;
     margin-left: auto;
-    padding-left: 20px;
-    padding-right: 20px;
-    padding-top: 20px;
-    padding-bottom: 20px;
+    padding: 20px;
+    max-width: 500px;
 }
 .flavor, .dessert{
     text-align: center;
